@@ -1,1 +1,1 @@
-# oddo_clothing_project
+# odoo_clothing_project
